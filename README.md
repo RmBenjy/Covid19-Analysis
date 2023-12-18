@@ -15,7 +15,7 @@ This repository contains the code and analysis for a data project focused on COV
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - Jupyter Notebooks
 - Pandas, Matplotlib, Seaborn, and other necessary libraries 
 
